@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
-Here is the link: 
+Here is the link: https://felipesierra10.github.io/challenge1-code-refactoring/
 
 ## Credits
 
